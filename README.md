@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hello, I'm Shreya Kindalkar
+# Hello 🧸, I'm Shreya Kindalkar
 
 **Full-stack Developer | AI & ML Undergraduate**
 
@@ -12,13 +12,17 @@ Building production apps that solve real problems.
 
 ---
 
-## 👋 About Me
+##  About Me
 
-🎓 BTech student learning full-stack development through shipping real projects  
-🔧 Strong in Python & FastAPI, building production APIs and databases  
-⚛️ Actively improving React skills — integrating frontends with backends  
-🚀 Self-directed learner who values shipping code over endless tutorials  
-📍 Based in India, learning database design, deployment, and system architecture
+🎓 BTech student learning full-stack development through shipping real projects.
+
+🔧 Strong in Python & FastAPI, building production APIs and databases.
+
+💻 Actively improving React skills — integrating frontends with backends.
+
+🚀 Self-directed learner who values shipping code over endless tutorials.
+
+📍 Based in Bengaluru.
 
 ---
 
