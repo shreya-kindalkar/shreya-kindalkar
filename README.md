@@ -1,85 +1,72 @@
-**# Hi 👋 I'm Shreya Kindalkar
+<!-- Shreya Kindalkar - GitHub Profile README -->
 
-**Backend Engineer | AI/ML Builder | Shipping Real Systems**
+<div align="center">
 
-Building AI-powered applications that solve real problems. I ship working systems—not tutorials. FastAPI, React, deployment pipelines, and the debugging that comes with all of it.
+# Hello, I'm Shreya Kindalkar
 
-Currently: Full-stack development on Voyageur (AI travel safety platform), researching C4GT DMP 2026.
+**Full-stack builder | India-based | React + FastAPI**
 
----
-
-## What I Work With
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 20px 0;">
-
-<div style="background: rgba(99, 102, 241, 0.05); border: 1px solid rgba(99, 102, 241, 0.2); border-radius: 12px; padding: 20px;">
-<h3 style="color: #6366f1; margin: 0 0 12px 0; font-size: 16px;">💻 Frontend</h3>
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
-<span style="background: #dbeafe; color: #1e40af; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">HTML</span>
-<span style="background: #dbeafe; color: #1e40af; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">CSS</span>
-<span style="background: #dbeafe; color: #1e40af; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">JavaScript</span>
-<span style="background: #dbeafe; color: #1e40af; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">React</span>
-</div>
-</div>
-
-<div style="background: rgba(59, 130, 246, 0.05); border: 1px solid rgba(59, 130, 246, 0.2); border-radius: 12px; padding: 20px;">
-<h3 style="color: #3b82f6; margin: 0 0 12px 0; font-size: 16px;">⚙️ Backend</h3>
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
-<span style="background: #c7d2fe; color: #1e3a8a; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">Node.js</span>
-<span style="background: #c7d2fe; color: #1e3a8a; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">Django</span>
-<span style="background: #c7d2fe; color: #1e3a8a; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">FastAPI</span>
-</div>
-</div>
-
-<div style="background: rgba(236, 72, 153, 0.05); border: 1px solid rgba(236, 72, 153, 0.2); border-radius: 12px; padding: 20px;">
-<h3 style="color: #ec4899; margin: 0 0 12px 0; font-size: 16px;">💾 Databases</h3>
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
-<span style="background: #fbcfe8; color: #831843; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">MongoDB</span>
-<span style="background: #fbcfe8; color: #831843; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">MySQL</span>
-<span style="background: #fbcfe8; color: #831843; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">PostgreSQL</span>
-<span style="background: #fbcfe8; color: #831843; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">SQLite</span>
-</div>
-</div>
-
-<div style="background: rgba(251, 146, 60, 0.05); border: 1px solid rgba(251, 146, 60, 0.2); border-radius: 12px; padding: 20px;">
-<h3 style="color: #fb923c; margin: 0 0 12px 0; font-size: 16px;">🛠️ Tools</h3>
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
-<span style="background: #fed7aa; color: #7c2d12; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">Git</span>
-<span style="background: #fed7aa; color: #7c2d12; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">VS Code</span>
-<span style="background: #fed7aa; color: #7c2d12; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">Figma</span>
-<span style="background: #fed7aa; color: #7c2d12; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">Canva</span>
-</div>
-</div>
-
-<div style="background: rgba(34, 197, 94, 0.05); border: 1px solid rgba(34, 197, 94, 0.2); border-radius: 12px; padding: 20px;">
-<h3 style="color: #22c55e; margin: 0 0 12px 0; font-size: 16px;">🌐 Languages</h3>
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
-<span style="background: #dcfce7; color: #15803d; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">Python</span>
-<span style="background: #dcfce7; color: #15803d; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 500;">SQL</span>
-</div>
-</div>
+Building production apps that solve real problems.
 
 </div>
 
 ---
 
-## Let's Connect
+## 🛠 Tech Stack
 
-<div style="background: linear-gradient(135deg, rgba(99, 102, 241, 0.1) 0%, rgba(139, 92, 246, 0.1) 100%); border: 1px solid rgba(99, 102, 241, 0.2); border-radius: 12px; padding: 24px; margin: 20px 0;">
+### Frontend
+<div align="center">
 
-<div style="margin-bottom: 16px;">
-<h3 style="color: var(--color-text-primary); margin: 0 0 8px 0; font-size: 16px;">Interested in collaborating?</h3>
-<p style="color: var(--color-text-secondary); margin: 0; font-size: 14px;">Backend development, AI/ML projects, startup engineering, or open-source work.</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 </div>
 
-<div style="display: flex; gap: 12px; flex-wrap: wrap;">
-<a href="https://linkedin.com/in/shreya-kindalkar7" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 16px; background: white; color: #6366f1; border: 1px solid #e5e7eb; border-radius: 8px; text-decoration: none; font-weight: 500; font-size: 14px; cursor: pointer;">💼 LinkedIn</a>
-<a href="https://github.com/shreya-kindalkar" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 16px; background: white; color: #6366f1; border: 1px solid #e5e7eb; border-radius: 8px; text-decoration: none; font-weight: 500; font-size: 14px; cursor: pointer;">🐙 GitHub</a>
-<a href="https://shreya-kindalkar.github.io/" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 16px; background: white; color: #6366f1; border: 1px solid #e5e7eb; border-radius: 8px; text-decoration: none; font-weight: 500; font-size: 14px; cursor: pointer;">🌐 Portfolio</a>
+### Backend
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 </div>
+
+### Databases
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+### Tools & Infrastructure
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-**Currently available for:** Backend development roles, AI/ML projects, startup engineering, open-source contributions.**
+## 📫 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreya-kindalkar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-kindalkar7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://shreya-kindalkar.github.io/)
+
+</div>
+
+---
+
+<div align="center">
+
+*Currently building production systems. Always shipping.*
+
+</div>
