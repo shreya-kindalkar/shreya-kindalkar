@@ -4,7 +4,7 @@
 
 # Hello, I'm Shreya Kindalkar
 
-**Full-stack builder | React + FastAPI**
+**Full-stack developer**
 
 Building production apps that solve real problems.
 
