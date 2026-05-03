@@ -4,27 +4,28 @@
 
 # Hello, I'm Shreya Kindalkar
 
-**Full-stack developer | AI & ML Undergraduate**
+**Full-stack Developer | AI & ML Undergraduate**
 
 Building production apps that solve real problems.
 
 </div>
 
 ---
-## About Me
-🎓 BTech student learning full-stack development through shipping real projects.
 
-🔧 Strong in Python & FastAPI, building production APIs and databases.
+## 👋 About Me
 
-⚛️ Actively improving React skills — integrating frontends with backends.
+🎓 BTech student learning full-stack development through shipping real projects  
+🔧 Strong in Python & FastAPI, building production APIs and databases  
+⚛️ Actively improving React skills — integrating frontends with backends  
+🚀 Self-directed learner who values shipping code over endless tutorials  
+📍 Based in India, learning database design, deployment, and system architecture
 
-🚀 Self-directed learner who values shipping code over endless tutorials.
-
-📍 Based in India, learning database design, deployment, and system architecture.
+---
 
 ## 🛠 Tech Stack
 
-### Languages & Tools
+### Frontend
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,15 +33,30 @@ Building production apps that solve real problems.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+</div>
+
+### Backend
+
+<div align="center">
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+### Databases
+
+<div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
+
 ### Tools & Infrastructure
+
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -52,7 +68,7 @@ Building production apps that solve real problems.
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
 <div align="center">
 
