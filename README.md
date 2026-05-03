@@ -11,6 +11,12 @@ Building production apps that solve real problems.
 </div>
 
 ---
+## About Me
+🎓 BTech student learning full-stack development through shipping real projects
+🔧 Strong in Python & FastAPI, building production APIs and databases
+⚛️ Actively improving React skills — integrating frontends with backends
+🚀 Self-directed learner who values shipping code over endless tutorials
+📍 Based in India, learning database design, deployment, and system architecture
 
 ## 🛠 Tech Stack
 
