@@ -4,7 +4,7 @@
 
 # Hello, I'm Shreya Kindalkar
 
-**Full-stack developer**
+**Full-stack developer | AI & ML Undergraduate**
 
 Building production apps that solve real problems.
 
@@ -39,6 +39,7 @@ Building production apps that solve real problems.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+</div>
 ### Tools & Infrastructure
 <div align="center">
 
@@ -51,7 +52,7 @@ Building production apps that solve real problems.
 
 ---
 
-## 📫 Connect
+## 📫 Connect with me
 
 <div align="center">
 
