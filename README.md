@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hello 🧸, I'm Shreya Kindalkar
+# Hello, I'm Shreya Kindalkar
 
 **Full-stack Developer | AI & ML Undergraduate**
 
